@@ -1,0 +1,414 @@
+[
+  {
+    "id": 1,
+    "nome": "Rolo Para Esterilização 20cmx100m - HospFlex",
+    "categoria": "Biossegurança",
+    "descricao": ["Isento de alvejante.","Atóxico.","Levemente esverdeado.","Pode ser autoclavado até 135°.","Produto de uso único.","Tamanho: 20cmx100m.","Tripla selagem.","Não libera fibras de papel ou laceração do filme na abertura após a esterilização.","Validade: 3 anos após fabricação.","Registro ANVISA: isento."],
+    "preco": 29.90,
+    "parcela": "Em até 10x de R$ 2,99",
+    "image": "https://cdn.dentalcremer.com.br/produtos/550/rolo-para-esterilizacao-200mm-x-100m-hospflex-dc-544015-03.jpg",
+    "condicao": "Novo"
+  },
+  {
+    "id": 2,
+    "nome": "Água Destilada para Autoclave - Water Clean",
+    "categoria": "Biossegurança",
+    "descricao": ["Não injetável.","Não estéril e quimicamente pura.","Isenta de sais solúveis.","Água obtida através do processo de condensação do vapor de água obtido pela ebulição ou pela evaporação."],
+    "preco": 299.90,
+    "parcela": "Em até 10x de R$ 29,99",
+    "image": "https://cdn.dentalcremer.com.br/produtos/550/agua-destilada-autoclave-water-clean-672312.jpg",
+    "condicao": "Novo"
+  },
+  {
+    "id": 3,
+    "nome": "Álcool Etílico 70% Saneante - Prolink",
+    "categoria": "Biossegurança",
+    "descricao": ["Hidratado na concentração de 70º INPM (70% em peso).","Deve ser utilizado puro, procedendo 3 aplicações com intervalos de 10 minutos entre cada uma delas.","Deixar secar e não enxaguar.","Exclusivo de uso profissional.","Registro ANVISA: 326100019."],
+    "preco": 299.90,
+    "parcela": "Em até 10x de R$ 29,99",
+    "image": "https://cdn.dentalcremer.com.br/produtos/550/alcool-etilico-70-saneante-prolink-126815.jpg",
+    "condicao": "Novo"
+  },{
+  "id": 4,
+  "nome": "Detergente Enzimático Zymedet Gold 5-E - Prolink",
+  "categoria": "Biossegurança",
+  "descricao":[ "Detergente enzimático 5 enzimas para uso odontológico.",
+    "Composição: Protease, Amilase, Lípase, Protease Subtilisin (Liquinase), Carboidrase, Nonil Fenol Etoxilado (2,5% p/p), Estabilizantes, Solventes Orgânicos, Alcalinizantes, Corante, Conservantes e Veículo. Faixa de pH do produto puro 6,0 -8,0.",
+    "Aspecto: líquido translúcido.","Cor: amarelo.","Odor característico.","Armazenamento: conserve o produto em local seguro e protegido do calor excessivo.","Validade: 24 meses a partir da data de fabricação.",
+    "Registro ANVISA: 326100033."],
+  "preco": 29.90,
+  "parcela": "Em até 10x de R$ 2,99",
+  "image": "https://cdn.dentalcremer.com.br/produtos/550/detergente-enzimatico-zymedet-gold-5-enzimas-1l-prolink-dc-101333-01.jpg",
+  "condicao": "Novo"
+},{
+  "id": 5,
+  "nome": "Indicador Químico - Clean Up",
+  "categoria": "Biossegurança",
+  "descricao": [
+    "Contém tintas reagentes de alta tecnologia e sensibilidade que controlam com exatidão todos os parâmetros críticos estabelecidos de tempo, vapor e temperatura.",
+"Sua precisão é rigorosa, correspondendo à curva de morte do Geobacillus Stearothermophilus, proporcionando segurança e confiança total ao profissional.",
+"Ecologicamente correto, atóxico e seguro, é fabricado conforme padrão internacional de qualidade ISO.",
+"Sua cor inicial muda para preto após o processo e não altera com o tempo, devendo ser arquivadas como prova legal do sucesso do ciclo.",
+"Classe 5."
+  ],
+  "preco": 299.90,
+  "parcela": "Em até 10x de R$ 29,99",
+  "image": "https://cdn.dentalcremer.com.br/produtos/550/545517.jpg",
+  "condicao": "Novo"
+},{
+  "id": 6,
+  "nome": "Sugador Descartável Transparente - AllPrime",
+  "categoria": "Descartáveis",
+  "descricao": ["Comprimento: 15cm.","Facilidade de manuseio.","Feito de PVC transparente atóxico e fio cobreado.","Ponta arredondada.","Validade: Indeterminada.","Registro ANVISA: 80801639001."],
+  "preco": 29.90,
+  "parcela": "Em até 10x de R$ 2,99",
+  "image": "https://cdn.dentalcremer.com.br/produtos/550/embalagem-sugador-descartavel-transparente-allprime-127720.jpg",
+  "condicao": "Novo"
+},{
+  "id": 7,
+  "nome": "Máscara Cirúrgica Descartável Com Elástico - Fava",
+  "categoria": "Descartáveis",
+  "descricao": ["Confeccionada em três camadas de polipropileno (PP), tecido – não – tecido.",
+    "Com elástico e clip nasal.",
+    "Hipoalergênica.",
+    "Excelente acabamento.",
+    "Fabricada em diferentes cores (selecionável).",
+    "Registro ANVISA: 10317690011."
+  ],
+  "preco": 29.90,
+  "parcela": "Em até 10x de R$ 2,99",
+  "image": "https://cdn.dentalcremer.com.br/produtos/550/mascara-cirurgica-descartavel-50unidades-fava-dc11164.jpg",
+  "condicao": "Novo"
+},{
+  "id": 8,
+  "nome": "Luva de Procedimento com Pó - Allprime",
+  "categoria": "Descartáveis",
+  "descricao": [
+    "Luva não cirúrgica.",
+    "Material: Látex de borracha natural.",
+    "Com presença de pó.",
+    "Superfície Lisa.",
+    "Ambidestra.",
+    "Descartável, de uso único.",
+    "Não estéril.",
+    "Registro ANVISA: 80801630037."
+  ],
+  "preco": 29.90,
+  "parcela": "Em até 10x de R$ 2,99",
+  "image": "https://cdn.dentalcremer.com.br/produtos/550/luva-de-procedimento-com-po-allprime-dc29549-dental-cremer-11.jpg",
+  "condicao": "Novo"
+},{
+  "id": 9,
+  "nome": "Babador Impermeável - Biodinâmica",
+  "categoria": "Descartáveis",
+  "descricao": [
+    "Babador muito resistente, impermeável e seguro.",
+    "É composto de fibras de celulose virgens sem contaminantes e filme de polietileno atóxico.",
+    "Possui duas camadas (1 de plástico e 1 de papel), o que lhe confere excelente capacidade de absorção.",
+    "Não estéril.",
+    "Sem adesivo.",
+    "Dimensões: 33,5 X 47 cm."
+  ],
+  "preco": 299.90,
+  "parcela": "Em até 10x de R$ 29,99",
+  "image": "https://cdn.dentalcremer.com.br/produtos/550/376593.jpg",
+  "condicao": "Novo"
+},{
+  "id": 10,
+  "nome": "Compressa de Gaze 9 Fios Não Estéril - Ultracotton",
+  "categoria": "Descartáveis",
+  "descricao": [
+    "9 fios/cm².",
+    "Alta absorção.",
+    "Fabricada em 100% algodão.",
+    "Produto de uso único. Destruir após o uso. Proibido reprocessar.",
+    "Conservar em local limpo, seco e ao abrigo da luz.",
+    "Válida por 5 anos a partir da data de fabricação, enquanto a embalagem não for aberta, danificada ou molhada.",
+    "Registro ANVISA: 80384550002."
+  ],
+  "preco": 29.90,
+  "parcela": "Em até 10x de R$ 2,99",
+  "image": "https://cdn.dentalcremer.com.br/produtos/550/compressa-gaze-9-fios-500-unid-ultracotton-melhormed-100545.jpg",
+  "condicao": "Novo"
+},{
+  "id": 11,
+  "nome": "Agulha Gengival - AllPrime",
+  "categoria": "Anestésicos e Agulha Gengival",
+  "descricao": [
+    "Bisel trifacetado ultra afiado.",
+    "Fácil penetração no tecido e bordas arredondadas que protegem a gengiva.",
+    "Selada com lacre em código de cores que facilita a sua identificação e diferenciação entre modelos.",
+    "Produto certificado pelo INMETRO (UL-BR 092017-101182465).",
+    "Validade: 5 anos após data de fabricação.",
+    "Registro ANVISA: 80801630047."
+  ],
+  "preco": 299.90,
+  "parcela": "Em até 10x de R$ 29,99",
+  "image": "https://cdn.dentalcremer.com.br/produtos/550/embalagem-agulha-gengival-allprime-dc25611.jpg",
+  "condicao": "Novo"
+},{
+  "id": 12,
+  "nome": "Agulha Gengival Septoject XL - Septodont",
+  "categoria": "Anestésicos e Agulha Gengival",
+  "descricao": [
+    "Estéreis e descartáveis de uso único.",
+    "Diâmetro interno 43% maior, quando comparado com agulhas convencionais.",
+    "Diminui a dor no paciente através da pressão reduzida e menor esforço na aplicação.",
+    "Agulha tribiselada que proporciona menor trauma tecidual.",
+    "Ótima flexibilidade que reduz o risco de quebra.",
+    "Cânula polida e siliconizada que permite maior suavidade no uso.",
+    "Indicador de bisel que facilita a visualização.",
+    "Pré-rosqueada para melhor encaixe na carpule.",
+    "Validade: 5 anos a partir da data de esterilização.",
+    "Registro ANVISA: 10291220080."
+  ],
+  "preco": 29.90,
+  "parcela": "Em até 10x de R$ 2,99",
+  "image": "https://cdn.dentalcremer.com.br/produtos/550/agulha-gengival-septoject-xl-septodont-dental-cremer-DC16406.jpg",
+  "condicao": "Novo"
+},{
+  "id": 13,
+  "nome": "Agulha Gengival 30G 21mm Curta - Terumo",
+  "categoria": "Anestésicos e Agulha Gengival",
+  "descricao": [
+    "A ponta trifacetada reduz ao mínimo a dor e o incômodo eliminando a necessidade de uma pré-anestesia antes da aplicação da injeção.",
+    "A agulha Terumo é feita de metal de alta flexibilidade, impedindo a quebra, mesmo quando o paciente realiza movimentos bruscos durante a aplicação.",
+    "As paredes da agulha são ultrafinas e siliconizadas, proporcionando uma inserção mais suave e menos traumática.",
+    "Longa: 35mm.",
+    "Curta: 21mm.",
+    "Extra-Curta: 13mm."
+  ],
+  "preco": 299.90,
+  "parcela": "Em até 10x de R$ 29,99",
+  "image": "https://cdn.dentalcremer.com.br/produtos/550/agulha-gengival-30g-21mm-curta-terumo-133466-dental-cremer.jpg",
+  "condicao": "Novo"
+},{
+  "id": 14,
+  "nome": "Anestésico Mepivalem Ad 2% 1:100.000 - DLA",
+  "categoria": "Anestésicos e Agulha Gengival",
+  "descricao": [
+    "Mepivacaína: O sal mepivacaína apresenta características semelhantes à lidocaína, porém, com efeito menos vasodilatador.",
+    "O início de ação deste produto também é mais rápido que os demais sais.",
+    "Epinefrina: Vasoconstritor de referência para comparação dos demais vasoconstritores no aspecto potência e segurança, a epinefrina atua semelhantemente à adrenalina endógena, liberada pela glândula supra-renal.",
+    "Promove vasoconstrição por atuação nos receptores alfa capilares, resultando em hemostasia efetiva durante procedimentos cirúrgicos. Sua eficácia e relativa segurança permite que a ação do anestésico local seja suficiente para a maioria dos procedimentos, diminuindo a toxicidade eaumentando a hemostasia. Sabendo-se que o Mepivalem AD não contém metilparabeno, bactericida presente nos produtos contendo adrenalina e seus derivados, é opção para pacientes alérgicos a este conservante."
+  ],
+  "preco": 29.90,
+  "parcela": "Em até 10x de R$ 2,99",
+  "image": "https://cdn.dentalcremer.com.br/produtos/550/imagem-padrao-venda-sob-prescricao-medica.jpg",
+  "condicao": "Novo"
+},{
+  "id": 15,
+  "nome": "Anestésico Prilonest 3% - DFL",
+  "categoria": "Anestésicos e Agulha Gengival",
+  "descricao": [
+    "Isento de sulfito",
+    "Vasoconstritor Felipressina, sendo uma alternativa segura para a contraindicação da epinefrina",
+    "Excelente opção para pacientes diabéticos e asmáticos",
+    "Envasados em tubetes de vidro",
+    "Permite melhor visualização do refluxo sanguíneo",
+    "Conforto para o paciente – maior suavidade de deslizamento de êmbolo siliconizado, minimizando a dor durante a injeção",
+    "Alto índice de sucesso anestésico",
+"Sem possibilidade de contaminação por polímeros, pois o vidro não se degrada",
+"Certificado BPF – Boas Práticas de Fabricação",
+"Cada tubete é envolvido por um rótulo adesivo de segurança, que protege a cavidade oral em caos de quebra e que contém todas as especificações sobre anestésico",
+"Embalagem em blisters lacrado",
+"Total eficácia do produto durante todo o tempo de validade a ausência de porosidade do vidro"
+  ],
+  "preco": 299.90,
+  "parcela": "Em até 10x de R$ 29,99",
+  "image": "https://cdn.dentalcremer.com.br/produtos/550/imagem-padrao-venda-sob-prescricao-medica.jpg",
+  "condicao": "Novo"
+},{
+  "id": 16,
+  "nome": "Gesso Pedra Tipo III - Asfer",
+  "categoria": "Moldagem",
+  "descricao": [
+    "Gesso Alfa.",
+    "Boa resistência.",
+    "De fácil remoção após conclusão.",
+    "Baixo consumo de água.",
+    "Menor tempo para enchimento dos moldes.",
+    "Facilidade na espatulação."
+  ],
+  "preco": 29.90,
+  "parcela": "Em até 10x de R$ 2,99",
+  "image": "https://cdn.dentalcremer.com.br/produtos/550/gesso-pedra-tipo-iii-asfer-dc19752.jpg",
+  "condicao": "Novo"
+},{
+  "id": 17,
+  "nome": "Silicone de Adição Express™ XT - 3M",
+  "categoria": "Moldagem",
+  "descricao": [
+    "Maior hidrofilia, com alta reprodução de detalhes mesmo em condições desafiadoras de umidade.",
+    "Excelente resistência à tração, que evita o rasgamento.",
+    "Maior estabilidade dimensional: permite vazamento do modelo em até 15 dias e obtenção de mais de um modelo de gesso.",
+    "Rendimento médio: Cada cartucho de 50 ml da pasta fluida rende 12 moldagens totais, podendo variar de acordo com o tipo de moldagem, moldeira e técnica utilizada.",
+    "Proporção: 1:1."
+  ],
+  "preco": 299.90,
+  "parcela": "Em até 10x de R$ 29,99",
+  "image": "https://cdn.dentalcremer.com.br/produtos/550/silicone-adicao-express-xt-pasta-fluida-media-baixa-viscosidade-3m-dental-cremer.jpg",
+  "condicao": "Novo"
+},{
+  "id": 18,
+  "nome": "Alginato Avagel Tipo II - Dentsply Sirona",
+  "categoria": "Moldagem",
+  "descricao": [
+    "Excelente tempo de trabalho.",
+    "Com presença de clorexidina, aumenta a higiene e a segurança nos consultórios, evitando o risco de contaminação cruzada.",
+    "Apresenta baixo escoamento, o que evita ânsia de vômito nos pacientes.",
+    "Evita o surgimento de superfícies pulverulentas nos modelos de gesso.",
+    "Sabor tutti-frutti.",
+    "Recomenda-se que durante todos os procedimentos clínicos profissional, auxiliares assim como pacientes utilizem óculos de proteção.",
+    "As impressões devem ser sempre lavadas e desinfetadas, conforme recomendam a ADA, CDC e o OSHA.",
+    "Conservar ao abrigo de calor e umidade.",
+    "Composição: Alginato de Potássio, Sulfato de Cálcio, Tetrapirofosfato de Sódio, Fluotitanato de Potássio, Polietileno Glicol, Óxido de Magnésio, Diatomita, Aroma, Clorexidina, Álcool Anidro e Fenoftaleína.",
+    "Registro ANVISA: 80196880224."
+  ],
+  "preco": 29.90,
+  "parcela": "Em até 10x de R$ 2,99",
+  "image": "https://cdn.dentalcremer.com.br/produtos/550/alginato-para-moldagem-avagel-tipo-ii-dentsply-sirona-113995.jpg",
+  "condicao": "Novo"
+},{
+  "id": 19,
+  "nome": "Alginato Hydrogum 5 Tipo I - Zhermack",
+  "categoria": "Moldagem",
+  "descricao": [
+    "Reprodução de detalhes de superfície de até 5 μm (mícrons) e 5 dias de estabilidade dimensional.",
+    "Mistura manual ou automática, com absorção rápida da água. Resulta em massa homogênea e superfícies lisas e compactas.",
+    "Alta elasticidade: permite que o material retorne à sua forma original.",
+    "Alta resistência ao rasgo: reduz o risco de rasgo da impressão quando é removido da boca do paciente.",
+    "Tempo de trabalho: 1 minuto e 5 segundos, considerando temperatura da água em 23ºC.",
+    "Tempo para presa (na boca do paciente): 45 segundos.",
+    "Tixotrópico.",
+    "Aroma de mangostão (fruta asiática).",
+    "Cor lilás.",
+    "Livre de poeira.",
+    "Embalado em atmosfera modificada."
+  ],
+  "preco": 299.90,
+  "parcela": "Em até 10x de R$ 29,99",
+  "image": "https://cdn.dentalcremer.com.br/produtos/550/alginato-hydrogum-5-zhermack-118440-dental-cremer-04.jpg",
+  "condicao": "Novo"
+},{
+  "id": 20,
+  "nome": "Kit Silicone de Condensação Reflex - Yller",
+  "categoria": "Moldagem",
+  "descricao": [
+    "Cores vivas e contrastantes.",
+    "Excelente estabilidade dimensional.",
+    "Hidrofílico.",
+    "Biocompatibilidade com tecidos bucais.",
+    "Excelente tempo de trabalho.",
+    "Perfeita flexibilidade e resistência ao rasgamento.",
+    "Produto de uso profissional.",
+    "Armazenamento: entre 2 e 28ºC.",
+    "Validade: 2 anos a partir da data de fabricação.",
+    "Registro ANVISA: 81009350013."
+  ],
+  "preco": 29.90,
+  "parcela": "Em até 10x de R$ 2,99",
+  "image": "https://cdn.dentalcremer.com.br/produtos/550/kit-silicone-de-condensacao-reflex-yller-842647.jpg",
+  "condicao": "Novo"
+},{
+  "id": 21,
+  "nome": "Ponta Ultrassônica GD1 - Microdont",
+  "categoria": "Instrumentos",
+  "descricao": [
+    "Modo de operação: P – Tratamento Periodontal.",
+    "Tipo de encaixe: GD1.",
+    "Registro ANVISA: 80676920030."
+  ],
+  "preco": 299.90,
+  "parcela": "Em até 10x de R$ 29,99",
+  "image": "https://cdn.dentalcremer.com.br/produtos/550/detalhes-ponta-ultrassonica-gd1-microdont-802856.jpg",
+  "condicao": "Novo"
+},{
+  "id": 22,
+  "nome": "Fotopolimerizador Emitter Now - Schuster",
+  "categoria": "Instrumentos",
+  "descricao": [
+    "Display digital e lente da ponteira substituível.",
+    "Profundidade de polimerização de até 6mm.",
+    "Temporizador para Polimerização modo Contínuo: 05, 10, 15, 20 segundos.",
+    "Temporizador para Polimerização modo High e Ortho: 03 segundos.",
+    "Bip sonoro indicativo a cada 5 segundos e no final da operação.",
+    "Tempo máximo de uso contínuo: 300 segundos.",
+    "Apresenta comandos de programação na própria caneta.",
+    "Corpo feito em ABS injetado.",
+    "Ponteira removível e giratória de 360°.",
+    "Conta com intensidade de luz constante.",
+    "Tempo de uso com carga total: 120 minutos.",
+    "Possui sistema stand by que desliga automaticamente após 2 minutos sem uso.",
+    "Modos de uso: Contínuo. Funções Ortho e High."
+  ],
+  "preco": 29.90,
+  "parcela": "Em até 10x de R$ 2,99",
+  "image": "https://cdn.dentalcremer.com.br/produtos/550/104735.jpg",
+  "condicao": "Novo"
+},{
+  "id": 23,
+  "nome": "Cavitador Cavflex 6000 - Dentflex",
+  "categoria": "Instrumentos",
+  "descricao": [
+    "Peça de mão confeccionada com materiais de alta qualidade.",
+    "Possui corpo construído em alumínio cromado o que garante leveza ao produto.",
+    "Seu corpo possui poucas linhas e excelente design proporcionando ergonomia, e facilidade na assepsia.",
+    "Instrumento autoclavável a 135 ºC.",
+    "O Cavitador Sônico CAVFLEX 6000 é um instrumento de mão utilizado no desgaste e remoção de tártaro, na profilaxia dental, na remoção de placas e cálculos supra e subgengivais, na remoção e diminuição do biofilme mineralizado e não mineralizado, entre outros.",
+    "Foi projetado para ser utilizado por profissionais qualificados em Odontologia.",
+    "É de confortável manuseio, pois além de ergométrico, também possui peso reduzido, alta potência e baixo nível de ruído.",
+    "Movimento elíptico da ponta, muito eficiente na remoção de tártaros.",
+    "O desenho estilizado, seu cabo anatômico e seu baixo peso reduzem o cansaço em tratamentos longos.",
+    "O sistema de refrigeração proporciona à superfície a ser tratada uma temperatura amena e constante, sem causar danos ao inserto ou área tratada.",
+    "Fácil instalação.",
+    "O Cavitador Sônico CAVFLEX 6000 é um dispositivo que possui ponta que oscila (freqüência de 3000-8000 Hz) devido à passagem de ar comprimido (pressão de ar: 2,46Kg/cm2 = 35 lbs psi) em seu sistema transdutor.",
+    "Seu encaixe ao equipo se dá através do modelo de conexão borden.",
+    "O corpo do Cavflex 6000 possui diâmetro de 16.5mm e seu comprimento total (sem ponta) é de aproximadamente 116mm “borden’’ e 122mm \"midwest\".",
+    "Garantia: 1 ano."
+  ],
+  "preco": 299.90,
+  "parcela": "Em até 10x de R$ 29,99",
+  "image": "https://cdn.dentalcremer.com.br/produtos/550/cavitador-cavflex-6000-dentflex-624106-dental-cremer-3.jpg",
+  "condicao": "Novo"
+},{
+  "id": 24,
+  "nome": "Seladora Selamaxx - Essence Dental",
+  "categoria": "Instrumentos",
+  "descricao": [
+    "Resistência blindada.",
+    "Guilhotina para corte.",
+    "Não necessita mudar de chave seletora de voltagem.",
+    "Fita armalon (de proteção térmica) avulsa que isola a resistência.",
+    "Leve, ergonômica e compacta.",
+    "Permite qualidade e eficiência no processo de selagem por possuir 10mm de espessura.",
+    "Garantia: 12 meses." 
+  ],
+  "preco": 29.90,
+  "parcela": "Em até 10x de R$ 2,99",
+  "image": "https://cdn.dentalcremer.com.br/produtos/550/seladora-selamaxx-essence-dental-590470.jpg",
+  "condicao": "Novo"
+},{
+  "id": 25,
+  "nome": "Autoclave Vitale Class 12L - Cristófoli",
+  "categoria": "Instrumentos",
+  "descricao": [
+    "Digital, fácil manuseio.",
+    "Design moderno.",
+    "Bivolt automático - 127/220V, que permite ser utilizado em redes elétricas com variações entre 95 até 254V.",
+    "Programa único de esterilização.",
+    "Temperatura e pressão exibidos por LEDs.",
+    "Desaeração e despressurização automáticas, que garantem maior segurança.",
+    "Tampa e câmara em aço inox, que facilita a limpeza.",
+    "Secagem eficiente com porta entreaberta.",
+    "Conta com 21 sistemas de segurança entre os quais: chave e trava da porta, sistema eletrônico de cruzamento de dados e sistema eletrônico de controle de potência.",
+    "Sistema de ajuste de altitude para diversas regiões.",
+    "Equipamento produzido dentro dos mais rígidos padrões de qualidade, com sistema de rastreabilidade que cumpre a norma NBR ISO 13485.",
+    "Todos os Vasos de Pressão das Autoclaves Cristófoli possuem registro conforme Portaria INMETRO N° 255 de 29/05/2014."
+  ],
+  "preco": 29.90,
+  "parcela": "Em até 10x de R$ 2,99",
+  "image": "https://cdn.dentalcremer.com.br/produtos/550/autoclave-esterilizadora-vitale-class-inox-cristofoli-dental-cremer.jpg",
+  "condicao": "Novo"
+}
+]
