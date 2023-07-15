@@ -1,3 +1,4 @@
+
 ![Logo](https://github.com/AdrianoJunior/Dentista/blob/master/assets/logo/readme_logo.png?raw=true)
 
 
@@ -9,6 +10,8 @@ Além disto, o app conta com uma página que contem uma lista de categorias, ond
 ## Referência
 
 Este é um desafio da [Corelab](https://www.corelab.com.br/pt/).
+
+O design utilizado como base para o desenvolvimento do projeto pode ser encontrado no [Figma](https://www.figma.com/file/Y3rVxMVcvNaNqgtutN1uSa/Untitled?type=design&node-id=0%3A1&mode=design&t=JrK0exuogY65LGuY-1).
 
 As tecnologias utilizadas no desenvolvimento do app foram:
 
@@ -85,6 +88,10 @@ Após executar o comando "flutter pub get" para obter as dependências do seu pr
 
 - No terminal, navegue até a pasta raiz do seu projeto Flutter usando o comando ```cd caminho/do/seu/projeto```.
 
+- Caso não possua o [Slidy](https://pub.dev/packages/slidy) habilitado, siga o passo a passo para habilitar, em seguida execute o comando ```slidy run mobx``` na raiz do seu projeto pelo terminal.
+
+- Caso possua o [Slidy](https://pub.dev/packages/slidy) habilitado, execute o comando ```slidy run mobx``` na raiz do seu projeto pelo terminal.
+
 - Execute o comando ```flutter run``` para iniciar o aplicativo no dispositivo selecionado. Se houver mais de um dispositivo conectado, você precisará especificar o dispositivo de destino com a flag "-d" seguida pelo ID do dispositivo. Por exemplo, ```flutter run -d deviceID```.
 
 - Aguarde alguns instantes enquanto o Flutter compila o aplicativo e o instala no dispositivo.
@@ -100,4 +107,3 @@ Após executar o comando "flutter pub get" para obter as dependências do seu pr
 ## Autor
 
 - [@AdrianoJunior](https://www.github.com/AdrianoJunior)
-
